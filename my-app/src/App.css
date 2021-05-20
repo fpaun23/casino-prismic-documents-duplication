@@ -1,0 +1,30 @@
+
+.header {
+  width: 100%;
+  padding: 2%;
+  background-color: greenyellow;
+  color: white;
+  text-align: center;
+}
+
+.display-board {
+  margin-top: 35px;
+  width: 100%;
+  background-color: rgb(555, 200, 789);
+  padding: 5%;
+}
+
+.number {
+  color: red;
+  font-size: 25px;
+  text-align: left;
+}
+
+.mrgnbtm {
+  margin-top: 20px;
+  margin-left: 0px;
+}
+
+.mandatory-error {
+  color: red;
+}
