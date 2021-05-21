@@ -8,7 +8,7 @@ Back-end tool to handle bulk documents from Prismic CMS
 
 # Steps - with docker-compose
 1. Clone the project to local machine
-2. CD prismic_tool/
+2. CD project root
 3. add/modify in my-app/package.json -> "proxy": "http://node-api:3080",
 4. docker-compose up
 5. Open project in browser http://localhost:3000/
