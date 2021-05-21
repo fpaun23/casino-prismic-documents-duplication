@@ -19,13 +19,13 @@ Back-end tool to handle bulk documents from Prismic CMS
 
 ---- Setup & Start Back End ----
 
-2. CD prismic_tool/api
+2. CD project root/api
 3. npm install
 4. node ./server.js or development nodemon ./server.js
 
 ---- Setup & Start Frontend ----
 
-5. CD prismic_tool/my-app
+5. CD project root/my-app
 6. yarn install
 7. add/modify in my-app/package.json -> "proxy": "http://localhost:3080",
 8. yarn start
